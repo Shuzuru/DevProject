@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g    CMakeFiles/OgreApp.dir/BaseApplication.cpp.o CMakeFiles/OgreApp.dir/BasicTutorial3.cpp.o  -o dist/bin/OgreApp -rdynamic /usr/local/lib/libOgreMain.so /usr/local/lib/libOgreTerrain.so -lboost_thread-mt -lpthread -lboost_date_time-mt /usr/local/lib/libOIS.so -Wl,-rpath,/usr/local/lib: 

@@ -1,0 +1,8 @@
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/.//media/materials/scripts/Ogre.material
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/.//media/materials/textures/GreenSkin.jpg
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/.//media/materials/textures/spheremap.png
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/.//media/materials/textures/tusk.jpg
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/.//media/packs/SdkTrays.zip
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/.//media/models/ogrehead.mesh
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/bin/plugins.cfg
+/home/pascal/OgreProject/clean_ogre_cmake_project/ogreapp-build-console/dist/bin/resources.cfg
